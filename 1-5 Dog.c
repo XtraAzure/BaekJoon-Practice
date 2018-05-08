@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Practice to use '\\' method well
+
 int main()
 {
 	printf("|\\_/|\n");
