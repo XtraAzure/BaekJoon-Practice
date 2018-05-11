@@ -17,6 +17,6 @@ int main()
 
 	printf("%0.9lf",result);
 
-	system("PAUSE");
+	//system("PAUSE");
 	return 0;
 }
